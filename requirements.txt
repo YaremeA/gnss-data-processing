@@ -1,0 +1,6 @@
+pyserial
+requests
+pandas
+django
+paho-mqtt
+msgpack
